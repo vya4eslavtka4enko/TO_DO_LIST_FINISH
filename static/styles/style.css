@@ -1,0 +1,18 @@
+#todo_block{
+    form{
+        margin:30px;
+    }
+    input{
+       width:100%;
+       margin:5px;
+    }
+    h1{
+       margin:30px;
+    }
+    text-align:center;
+    width:50%;
+    margin:0 auto;
+    li{
+    list-style:none;
+    }
+}
